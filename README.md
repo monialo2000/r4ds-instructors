@@ -65,9 +65,9 @@ definitions for glossary construction.
 
 ### Key Points
 
-- The basic data analysis cycle is import, tidy, repeatedly transform, visualize, and model, and then communicate.
-- Visualizations provide novel insight, but don't scale well.
-- Models scale well, but cannot provide unexpected insight.
+- El ciclo básico del análisis de datos es importar, ordenar, y repetidamente: transformar, visualizar y modelar, y luego cuando se refinó lo suficiente, comunicar.
+- Las visualizaciones nos proveen de revelaciones, pero no escalan correctamente.
+- Los Modelos escalan bien, pero no pueden mostrarnos nuevas perspectivas.
 - The techniques described in these lessons are good for tabular (rectangular) data up to about a gigabyte in size.
 - Hypothesis generation is the ad hoc process of exploring data to find possible hypotheses.
   An observation can be used many times during hypothesis generation.
